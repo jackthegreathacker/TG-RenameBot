@@ -10,7 +10,7 @@
     "Caption"
   ],
   "website": "https://github.com/mrvishal2k2",
-  "repository": "https://github.com/mrvishal2k2/TG-RenameBot/tree/main",
+  "repository": "https://github.com/jackthegreathacker/TG-RenameBot/tree/main",
   "logo": "https://telegra.ph//file/b3461e7795bb258688623.jpg",
   "env": {
     "TG_BOT_TOKEN": {
